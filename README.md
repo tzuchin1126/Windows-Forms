@@ -8,4 +8,4 @@
  員工測試帳號：
   - 帳號：chin
   - 密碼：0
-![iShot_2023-09-01_15 04 00](https://github.com/tzuchin1126/Windows-Forms/assets/118542088/78ca1edb-e930-4e97-b5f2-e094a3050292)
+
